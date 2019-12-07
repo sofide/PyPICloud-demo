@@ -1,0 +1,4 @@
+db.sqlite
+packages/
+*.egg-info
+dist/
